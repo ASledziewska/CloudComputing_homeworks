@@ -1,2 +1,1 @@
-# dash_app_example
-Cloud Computing homework
+# Cloud Computing homework
